@@ -66,8 +66,7 @@ Driven by **curiosity and creativity**, I’m always excited to connect with oth
   <a href="mailto:shanmathis.23cse@kongu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://www.linkedin.com/in/shanmathi-s-b1518830b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://leetcode.com/u/shanmathi2006/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Under_Construction-ffb703?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</p>
+ 
 
 ---
 

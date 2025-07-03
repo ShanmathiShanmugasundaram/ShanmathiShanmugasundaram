@@ -1,51 +1,89 @@
-# 👋 Hi there, I'm Shanmathi S!
+<h1 align="center">Hi 👋, I'm Shanmathi S</h1>
 
-Welcome to my GitHub profile! I'm passionate about building **beautiful, responsive websites** and solving **challenging algorithmic problems**.
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Final year student specializing in **Web Development** & **UI/UX Design**
-- 🎨 I love designing intuitive user interfaces and improving user experiences
-- 💡 Always exploring **new frameworks**, tools, and design systems
-- 🧠 Consistently solving problems on LeetCode to sharpen my coding skills
+<p align="center">
+  <em>Web Developer | UI/UX Designer | Problem Solver</em>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💫 About Me
 
-**Languages:**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+With a strong passion for **Web Development** and **UI/UX Design**, I enjoy creating user-friendly interfaces and delivering seamless digital experiences that are both functional and visually engaging.  
+I'm always eager to **learn new technologies**, embrace **innovative ideas**, and take on projects that challenge my **creativity and problem-solving skills**.
 
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+Driven by **curiosity and creativity**, I’m always excited to connect with others who are passionate about **tech and design innovation**.
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Tech Stack
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shanmathi-s-b1518830b/)
-- 🧠 [LeetCode](https://leetcode.com/u/shanmathi2006/)
-- 🧰 [Portfolio Website](#) *(Coming soon or add your link here)*
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+### 🛠️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 💡 Design & Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📌 LeetCode Profile
 
-![Shanmathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanmathi2006&show_icons=true&theme=react)
+📊 I actively solve problems to strengthen my logic and DSA skills.
+
+🔗 [Visit My LeetCode Dashboard](https://leetcode.com/u/shanmathi2006/)
 
 ---
 
-## ✨ Projects To Explore
+## 💼 Connect with Me
 
-> I'm currently uploading my personal and academic projects in web development and UI/UX. Stay tuned!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shanmathi-s-b1518830b/)
+- 💌 Email: *[YourEmail@example.com]*
+- 🌐 Portfolio: *Coming Soon*
 
+---
+
+## 📁 Featured Repositories (Coming Soon)
+
+✨ I'm in the process of uploading my latest:
+- UI/UX Designs
+- Frontend Projects
+- Full Stack Web Applications
+- Problem Solving Solutions
+
+Stay tuned!
+
+---
+
+## 💬 Favorite Quote
+
+> “It always seems impossible until it’s done.” – *Nelson Mandela*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0fbcf9&height=100&section=footer"/>
+</p>

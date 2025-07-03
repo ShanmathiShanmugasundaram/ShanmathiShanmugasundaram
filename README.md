@@ -17,7 +17,7 @@ Driven by **curiosity and creativity**, I’m always excited to connect with oth
 
 ## 🚀 Tech Stack
 
-###  Frontend
+### 🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -26,7 +26,7 @@ Driven by **curiosity and creativity**, I’m always excited to connect with oth
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-###  Backend & Database
+### 🛠️ Backend & Database
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -34,14 +34,14 @@ Driven by **curiosity and creativity**, I’m always excited to connect with oth
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-###  Design & Tools
+### 🎨 Design & Tools
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-###  Programming Languages
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -50,35 +50,40 @@ Driven by **curiosity and creativity**, I’m always excited to connect with oth
 
 ---
 
-##  LeetCode Profile
+## 📊 LeetCode Stats
 
-📊 I actively solve problems to strengthen my logic and DSA skills.
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shanmathi2006?theme=light&font=baloo&ext=activity" alt="LeetCode Stats" />
+</p>
 
 🔗 [Visit My LeetCode Dashboard](https://leetcode.com/u/shanmathi2006/)
 
 ---
 
-##  Connect with Me
+## 🤝 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shanmathi-s-b1518830b/)
--  🌐Email: *[shanmathis.23cse@kongu.edu]*
-
+- ✉️ Email: *shanmathis.23cse@kongu.edu*
+- 🌐 Portfolio: *Coming Soon*
 
 ---
 
-##  Featured Repositories
- UI/UX Designs
- Frontend Projects
- Full Stack Web Applications
- Problem Solving Solutions
+## 📁 Featured Repositories
 
-Stay tuned!
+- 🎨 UI/UX Designs  
+- 💻 Frontend Projects  
+- 🌐 Full Stack Web Applications  
+- 🧠 Problem Solving Solutions  
 
+> Stay tuned!
 
+---
 
 ## 💬 Favorite Quote
 
-> “It always seems impossible until it’s done.” – *Nelson Mandela*
+<h2 align="center">
+  “It always seems impossible until it’s done.”  
+</h2>
 
 ---
 

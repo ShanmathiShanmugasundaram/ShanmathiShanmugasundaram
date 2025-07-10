@@ -50,19 +50,24 @@ Driven by **curiosity and creativity**, I’m always excited to connect with oth
 
 ---
 
-## 📊 GitHub Stats
+## 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmathi2006&theme=default" alt="GitHub Streak Stats"/>
+  <img src="https://leetcard.jacoblin.cool/shanmathi2006?theme=light&font=baloo&ext=activity" alt="LeetCode Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shanmathi2006&bg_color=ffffff&color=0fbcf9&line=007acc&point=003366&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
-</p>
+🔗 [Visit My LeetCode Dashboard](https://leetcode.com/u/shanmathi2006/)
 
 ---
 
+## 🤝 Connect with Me
 
+<p align="center">
+  <a href="mailto:shanmathis.23cse@kongu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://www.linkedin.com/in/shanmathi-s-b1518830b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://leetcode.com/u/shanmathi2006/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Under_Construction-ffb703?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ---
 

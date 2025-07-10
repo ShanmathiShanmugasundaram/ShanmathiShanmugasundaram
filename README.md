@@ -89,6 +89,21 @@ Driven by **curiosity and creativity**, I’m always excited to connect with oth
 </h2>
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmathi2006&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- GitHub Contribution Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shanmathi2006&bg_color=ffffff&color=0fbcf9&line=007acc&point=003366&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0fbcf9&height=100&section=footer"/>

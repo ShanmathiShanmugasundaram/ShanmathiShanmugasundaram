@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-With a strong passion for **Web Development** and **UI/UX Design**, I enjoy creating user-friendly interfaces and delivering seamless digital experiences that are both functional and visually engaging.  
+With a strong passion for **Web Development** and **UI/UX Design**, I enjoy creating clean, inituitive and user-friendly interfaces delivering seamless digital experiences.
 I'm always eager to **learn new technologies**, embrace **innovative ideas**, and take on projects that challenge my **creativity and problem-solving skills**.
 
 Driven by **curiosity and creativity**, I’m always excited to connect with others who are passionate about **tech and design innovation**.

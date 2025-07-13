@@ -15,9 +15,11 @@ Driven by **curiosity and creativity**, I’m always excited to connect with oth
 
 ---
 
-## 🚀 Tech Stack
+<h2>
+  <img src="https://img.icons8.com/color/30/000000/code.png"/> 🚀 Tech Stack
+</h2>
 
-### 🌐 Frontend
+###  Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -26,7 +28,7 @@ Driven by **curiosity and creativity**, I’m always excited to connect with oth
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-### 🛠️ Backend & Database
+###  Backend & Database
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -34,7 +36,7 @@ Driven by **curiosity and creativity**, I’m always excited to connect with oth
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🎨 Design & Tools
+###  Design & Tools
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -59,15 +61,27 @@ Driven by **curiosity and creativity**, I’m always excited to connect with oth
 🔗 [Visit My LeetCode Dashboard](https://leetcode.com/u/shanmathi2006/)
 
 ---
+<h2>
+  <img src="https://img.icons8.com/fluency/28/000000/communication.png"/> 🤝 Connect with Me
+</h2>
 
-## 🤝 Connect with Me
+## 🤝 Connect with Me 💬
 
 <p align="center">
-  <a href="mailto:shanmathis.23cse@kongu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://www.linkedin.com/in/shanmathi-s-b1518830b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://leetcode.com/u/shanmathi2006/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Under_Construction-ffb703?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:shanmathis.23cse@kongu.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shanmathi-s-b1518830b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/shanmathi2006/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Under_Construction-ffb703?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </p>
+
 
 ---
 

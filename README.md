@@ -61,10 +61,6 @@ Driven by **curiosity and creativity**, I’m always excited to connect with oth
 🔗 [Visit My LeetCode Dashboard](https://leetcode.com/u/shanmathi2006/)
 
 ---
-<h2>
-  <img src="https://img.icons8.com/fluency/28/000000/communication.png"/> 🤝 Connect with Me
-</h2>
-
 ## 🤝 Connect with Me 💬
 
 <p align="center">
@@ -77,9 +73,7 @@ Driven by **curiosity and creativity**, I’m always excited to connect with oth
   <a href="https://leetcode.com/u/shanmathi2006/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Under_Construction-ffb703?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+
 </p>
 
 

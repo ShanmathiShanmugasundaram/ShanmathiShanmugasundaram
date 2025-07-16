@@ -79,15 +79,6 @@ Driven by **curiosity and creativity**, I’m always excited to connect with oth
 
 ---
 
-## 📁 Featured Repositories
-
-- 🎨 UI/UX Designs  
-- 💻 Frontend Projects  
-- 🌐 Full Stack Web Applications  
-- 🧠 Problem Solving Solutions  
-
-> Stay tuned for more updates!
-
 ---
 
 ## 💬 Favorite Quote
